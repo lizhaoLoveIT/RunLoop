@@ -1,18 +1,19 @@
 //
-//  RunLoopTests.m
-//  RunLoopTests
+//  _7_RunLoopTests.m
+//  07-RunLoopTests
 //
-//  Created by 李朝 on 16/1/10.
-//  Copyright © 2016年 ammar. All rights reserved.
+//  Created by Ammar on 15/7/11.
+//  Copyright (c) 2015年 小码哥. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface RunLoopTests : XCTestCase
+@interface _7_RunLoopTests : XCTestCase
 
 @end
 
-@implementation RunLoopTests
+@implementation _7_RunLoopTests
 
 - (void)setUp {
     [super setUp];
@@ -26,7 +27,7 @@
 
 - (void)testExample {
     // This is an example of a functional test case.
-    // Use XCTAssert and related functions to verify your tests produce the correct results.
+    XCTAssert(YES, @"Pass");
 }
 
 - (void)testPerformanceExample {

@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  RunLoop
+//  07-RunLoop
 //
-//  Created by 李朝 on 16/1/10.
-//  Copyright © 2016年 ammar. All rights reserved.
+//  Created by Ammar on 15/7/11.
+//  Copyright (c) 2015年 小码哥. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
